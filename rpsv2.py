@@ -1,9 +1,9 @@
-""" rock vs water---> water  winss coz high psi
-    rock vs fire ---> fire  winss coz lava
-    paper vs water--> water  winss coz spill water on your book
-    paper vs fire---> fire  winss coz ashes
-    scissor vs water->water  winss coz rust
-    scissor vs fire-> fire winss coz molten iron """
+""" rock vs water---> water  wins coz high psi
+    rock vs fire ---> fire  wins coz lava
+    paper vs water--> water  wins coz spill water on your book
+    paper vs fire---> fire  wins coz ashes
+    scissor vs water->water  wins coz rust
+    scissor vs fire-> fire wins coz molten iron """
 
 import random
 
