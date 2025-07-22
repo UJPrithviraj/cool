@@ -8,4 +8,4 @@
     key.
 3) It then uses a bunch of if-conditionals and cycles through the nested key-value pairs based on the user input to chose the nested value that determines the  
     outcome.
-4) It also has a preventive meaasure that makes sure that a wrong input is not given whether that is by messing up the case sensitivity or the word itself.
+4) It also has a preventive measure that makes sure that a wrong input is not given whether that is by messing up the case sensitivity or the word itself.
